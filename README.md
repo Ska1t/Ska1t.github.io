@@ -1,2 +1,2 @@
-# Ska1t.github.io
+# Ska1t
 My first published WEbsite
